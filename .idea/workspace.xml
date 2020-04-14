@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfb8a6ac-4900-4f8c-a45d-7ba336905010" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vue File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9WDWDp9mbP1kjFKNNIDgoV4rC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.15.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="G:\WebstormProjects\stats\server\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\WebstormProjects\stats\server\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="main.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="stats" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/server/src" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/server/src/main.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="G:\WebstormProjects\stats\server\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mongodbUtils.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="stats" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/server/src/VisitMongoDb" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/server/src/VisitMongoDb/mongodbUtils.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="G:\WebstormProjects\stats\server\node_modules\ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/webpage/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/webpage/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:debug" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:debug" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="npm.start:debug" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="TypeScript.mongodbUtils.ts" />
+        <item itemvalue="TypeScript.main.ts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfb8a6ac-4900-4f8c-a45d-7ba336905010" name="Default Changelist" comment="" />
+      <created>1586148170884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586148170884</updated>
+      <workItem from="1586148172188" duration="567000" />
+      <workItem from="1586152105448" duration="58000" />
+      <workItem from="1586158754803" duration="334000" />
+      <workItem from="1586162271726" duration="2586000" />
+      <workItem from="1586223486149" duration="7080000" />
+      <workItem from="1586252590266" duration="1751000" />
+      <workItem from="1586335369016" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1143" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586162704916">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1143" y="443" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586162704916" />
+    <state x="1501" y="507" key="FileChooserDialogImpl" timestamp="1586152162369">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1501" y="507" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586152162369" />
+    <state width="1428" height="339" key="GridCell.Tab.0.bottom" timestamp="1586252701877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1428" height="339" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586252701877" />
+    <state width="1428" height="339" key="GridCell.Tab.0.center" timestamp="1586252701877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1428" height="339" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586252701877" />
+    <state width="1428" height="339" key="GridCell.Tab.0.left" timestamp="1586252701877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1428" height="339" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586252701877" />
+    <state width="1428" height="339" key="GridCell.Tab.0.right" timestamp="1586252701877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1428" height="339" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586252701877" />
+  </component>
+</project>
